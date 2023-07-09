@@ -1,5 +1,5 @@
-#ifndef __DNS__
-#define __DNS__
+#ifndef __NTP__
+#define __NTP__
 
 #include <iostream>
 #include <stdlib.h>
